@@ -1,0 +1,121 @@
+/* Header */
+.header_top{
+    background-color: #ffffff;
+}
+
+.from-select{
+    background-color:transparent;
+    border: none;
+}
+
+.top_left{
+    background-color: transparent;
+}
+.header_manu{
+    background-color: #ece6e6;
+}
+.header_left{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.header_left form select{
+    background-color: transparent;
+    border: none;
+    
+}
+.header_top_middle{
+    padding-top: 7px;
+    padding-left: 7px;
+}
+.header_right{
+    float: right;
+    padding-top: 10px;
+    
+}
+
+
+.main{
+    background-image: url('/assets/img/img/BG.svg');
+    
+    
+}
+.Welcome_to_shopery{
+    padding-top: 155px;
+    color: #00B207;
+    padding-left: 88px;
+    font-size: 14;
+}
+.Fresh{
+    color: #000000;
+    padding-left: 88px;
+    font-size: 72px;
+}
+.sale{
+    padding-left: 100px;
+    font-size: 32px;
+}
+.off{
+    color: #FF8A00;
+    font-style: Poppins;
+    
+}
+.shiping{
+    padding-left: 100px;
+}
+.shop{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.btn-outline{
+    background-color:transparent;
+    border-color: #000000;
+}
+.btn-outline:hover{
+    background-color: #00B207;
+    color: white
+}
+.tracker{
+    text-align: center;
+    padding-top: 73px;
+}
+.ship{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.ship:hover{
+    background-color: #bbe0bc;
+}
+.feabold{
+    font-size: 18;
+}
+.featured_products_txt_left{
+    font-size: 40px;
+    
+}
+
+.featured_products_txt_right{
+    font-size: 16px;
+    color: #00B207;
+    padding-top: 50px;
+}
+.featured_product{
+    padding-top: 30px;
+}
+.papaya{
+    size: 144px,434px;
+    padding-top: 200px;
+}
+/* .featured_products{
+    width: 144px;
+    height: 434.36px;
+    background-image: url('/assets/img/img/papaya.svg');
+} */
+/* .papaya{
+    /* width: 144px;
+    height: 434.36px; */
+    /* background-image: url('/assets/img/img/papaya.svg');
+    
+}  */
+
